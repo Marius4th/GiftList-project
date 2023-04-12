@@ -1,5 +1,10 @@
 # Gift List
 
+Example source: https://github.com/ChainShot/GiftList
+Exercise project of week 2 of Alchemy University Ethereum Dev. Bootcamp.
+
+### Exercise Notes
+
 To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.
 
 There are three folders in this repository:
