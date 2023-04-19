@@ -1,6 +1,7 @@
 # Gift List
 
 Example source: https://github.com/ChainShot/GiftList
+
 Exercise project of week 2 of Alchemy University Ethereum Dev. Bootcamp.
 
 # Exercise Notes
